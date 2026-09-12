@@ -1,10 +1,11 @@
 {
- "updated_at": "2026-09-06 12:18:55",
+ "updated_at": "2026-09-12 20:12:47",
  "champion_version": "20260805_v3",
  "model_sha256": "386d94f52e51578be1909b3699053da704b176187646c19af38b39e59b81ebfb",
- "published_days": 1,
+ "published_days": 2,
  "days": [
-  "20260906_ST"
+  "20260906_ST",
+  "20260913_ST"
  ],
  "說明": "每個賽日開跑前公開模型頭三，公開後唔修改。模型已凍結，成季唔會重訓。pipeline_test/ 唔計入本清單。"
 }
